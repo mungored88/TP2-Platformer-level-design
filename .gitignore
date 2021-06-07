@@ -11,6 +11,8 @@
 [Mm]emoryCaptures/
 Assets/AssetsStoreTools*
 Library/*
+/Library/*
+/[Ll]ibrary/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
