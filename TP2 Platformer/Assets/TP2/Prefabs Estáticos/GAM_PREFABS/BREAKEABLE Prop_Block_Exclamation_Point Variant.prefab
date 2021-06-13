@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!65 &620648384
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 224714469208172690}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.96830684, y: 0.6090945, z: 0.9683068}
+  m_Center: {x: 0, y: 0.17096066, z: 0}
+--- !u!114 &620648385
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 224714469208172690}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8301d705fe996e4cb95b8bd163b4514, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1001 &4211248741886841258
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4138532035741546808, guid: 4701f641011ddeb4ab504f799916c574,
+        type: 3}
+      propertyPath: m_Name
+      value: BREAKEABLE Prop_Block_Exclamation_Point
+      objectReference: {fileID: 0}
+    - target: {fileID: 8685169004695941254, guid: 4701f641011ddeb4ab504f799916c574,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 40.071
+      objectReference: {fileID: 0}
+    - target: {fileID: 8685169004695941254, guid: 4701f641011ddeb4ab504f799916c574,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.209
+      objectReference: {fileID: 0}
+    - target: {fileID: 8685169004695941254, guid: 4701f641011ddeb4ab504f799916c574,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -63.781
+      objectReference: {fileID: 0}
+    - target: {fileID: 8685169004695941254, guid: 4701f641011ddeb4ab504f799916c574,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8685169004695941254, guid: 4701f641011ddeb4ab504f799916c574,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.86602545
+      objectReference: {fileID: 0}
+    - target: {fileID: 8685169004695941254, guid: 4701f641011ddeb4ab504f799916c574,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8685169004695941254, guid: 4701f641011ddeb4ab504f799916c574,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.49999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 8685169004695941254, guid: 4701f641011ddeb4ab504f799916c574,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8685169004695941254, guid: 4701f641011ddeb4ab504f799916c574,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8685169004695941254, guid: 4701f641011ddeb4ab504f799916c574,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8685169004695941254, guid: 4701f641011ddeb4ab504f799916c574,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4701f641011ddeb4ab504f799916c574, type: 3}
+--- !u!1 &224714469208172690 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4138532035741546808, guid: 4701f641011ddeb4ab504f799916c574,
+    type: 3}
+  m_PrefabInstance: {fileID: 4211248741886841258}
+  m_PrefabAsset: {fileID: 0}
