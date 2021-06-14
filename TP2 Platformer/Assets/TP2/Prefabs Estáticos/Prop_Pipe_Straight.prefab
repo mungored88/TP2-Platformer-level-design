@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3884151023895305369}
   - component: {fileID: 7422479546469963963}
   - component: {fileID: 4661074937471803757}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pipe
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -102,7 +102,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6295373039561291882}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Prop_Pipe_Straight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -138,7 +138,7 @@ GameObject:
   - component: {fileID: 774888072385364231}
   - component: {fileID: 3427801418667567172}
   - component: {fileID: 3290984400456478699}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pipe
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -231,7 +231,7 @@ GameObject:
   - component: {fileID: 2005321959832325685}
   - component: {fileID: 8630847013971308123}
   - component: {fileID: 3729125063615175191}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Hidden
   m_TagString: Untagged
   m_Icon: {fileID: 0}
