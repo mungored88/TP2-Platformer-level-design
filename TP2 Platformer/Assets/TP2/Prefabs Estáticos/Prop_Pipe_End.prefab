@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5890307490645999728}
   - component: {fileID: 517998965996724030}
   - component: {fileID: 1099190784774654249}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: Hidden
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -102,7 +102,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2990482199272765597}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: Prop_Pipe_End
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 3707063463721842381}
   - component: {fileID: 937685513779254843}
   - component: {fileID: 1518668376196413158}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: Pipe
   m_TagString: Untagged
   m_Icon: {fileID: 0}

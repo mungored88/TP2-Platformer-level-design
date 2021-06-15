@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 7144709634432277253}
   - component: {fileID: 4970042375978162355}
   - component: {fileID: 4175263518540914052}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: Hidden
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -102,7 +102,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5868634028033337934}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: Prop_Pipe_Elbow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -138,7 +138,7 @@ GameObject:
   - component: {fileID: 873965847313475477}
   - component: {fileID: 2881926904527679884}
   - component: {fileID: 3328807607719058301}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: Pipe
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -231,7 +231,7 @@ GameObject:
   - component: {fileID: 5085719331785791532}
   - component: {fileID: 5971479687154602607}
   - component: {fileID: 5074297827939556004}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: Pipe
   m_TagString: Untagged
   m_Icon: {fileID: 0}
