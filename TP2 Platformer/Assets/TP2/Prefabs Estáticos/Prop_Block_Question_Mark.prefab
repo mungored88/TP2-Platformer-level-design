@@ -43,7 +43,7 @@ GameObject:
   - component: {fileID: 1113617758296199233}
   - component: {fileID: 4921038325329462092}
   - component: {fileID: 1651359338145204693}
-  - component: {fileID: 481332668312828152}
+  - component: {fileID: 6921414727288210278}
   m_Layer: 0
   m_Name: Gold_Block
   m_TagString: Untagged
@@ -111,8 +111,8 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!64 &481332668312828152
-MeshCollider:
+--- !u!65 &6921414727288210278
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -121,10 +121,9 @@ MeshCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_Mesh: {fileID: 4300000, guid: 76ecb75978befd847931c8a8c82e571b, type: 2}
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0.5, z: 0}
 --- !u!1 &4165124997111118864
 GameObject:
   m_ObjectHideFlags: 0
@@ -136,7 +135,6 @@ GameObject:
   - component: {fileID: 1151963513960052169}
   - component: {fileID: 4155443919789353443}
   - component: {fileID: 7551384417485683251}
-  - component: {fileID: 557538257242841586}
   m_Layer: 0
   m_Name: Off_White
   m_TagString: Untagged
@@ -204,17 +202,3 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!64 &557538257242841586
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4165124997111118864}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_Mesh: {fileID: 4300000, guid: 5c48ba27a96ba5543977d2a5077502c6, type: 2}
