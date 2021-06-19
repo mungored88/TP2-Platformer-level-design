@@ -58,7 +58,6 @@ GameObject:
   - component: {fileID: 8042861130046087894}
   - component: {fileID: 8787937314774815144}
   - component: {fileID: 7155251274854475442}
-  - component: {fileID: 417449632130717178}
   m_Layer: 0
   m_Name: Brick_Accent
   m_TagString: Untagged
@@ -126,20 +125,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!64 &417449632130717178
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5215587046973170321}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_Mesh: {fileID: 4300000, guid: e5e0c542798737340ba4bfba23ae20c7, type: 2}
 --- !u!1 &7853666327288453706
 GameObject:
   m_ObjectHideFlags: 0
@@ -151,7 +136,7 @@ GameObject:
   - component: {fileID: 5197632353647126073}
   - component: {fileID: 7085863530531350172}
   - component: {fileID: 7875609992535731505}
-  - component: {fileID: 7513496831982421405}
+  - component: {fileID: 1224254796210369449}
   m_Layer: 0
   m_Name: Brick
   m_TagString: Untagged
@@ -219,8 +204,8 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!64 &7513496831982421405
-MeshCollider:
+--- !u!65 &1224254796210369449
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -229,7 +214,6 @@ MeshCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_Mesh: {fileID: 4300000, guid: 9c1b8059dc80aff498d27f36e3df13af, type: 2}
+  serializedVersion: 2
+  m_Size: {x: 1.8258696, y: 0.96098393, z: 1.8258696}
+  m_Center: {x: -0.5, y: 0.5, z: -0.5}
