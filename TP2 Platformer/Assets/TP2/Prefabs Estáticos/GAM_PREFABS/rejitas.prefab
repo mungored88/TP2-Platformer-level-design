@@ -288,7 +288,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Prop_Wood_Platform_Wide_Post (9)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 281883688089941001, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
 --- !u!4 &3738888595257689386 stripped
 Transform:
@@ -373,7 +374,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Prop_Wood_Platform_Wide_Post (4)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 281883688089941001, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
 --- !u!4 &3738888595249377333 stripped
 Transform:
@@ -458,7 +460,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Prop_Wood_Platform_Wide_Post (9)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 281883688089941001, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
 --- !u!4 &3738888595231714422 stripped
 Transform:
@@ -543,7 +546,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Prop_Wood_Platform_Wide_Post (10)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 281883688089941001, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
 --- !u!4 &3738888595168168053 stripped
 Transform:
@@ -628,7 +632,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Prop_Wood_Platform_Wide_Post
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 281883688089941001, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
 --- !u!4 &3738888595167092280 stripped
 Transform:
@@ -713,7 +718,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Prop_Wood_Platform_Wide_Post
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 281883688089941001, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
 --- !u!4 &3738888595130873414 stripped
 Transform:
@@ -798,7 +804,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Prop_Wood_Platform_Wide_Post (12)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 281883688089941001, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
 --- !u!4 &3738888595061174087 stripped
 Transform:
@@ -883,7 +890,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Prop_Wood_Platform_Wide_Post (6)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 281883688089941001, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
 --- !u!4 &3738888595007958166 stripped
 Transform:
@@ -968,7 +976,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Prop_Wood_Platform_Wide_Post (2)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 281883688089941001, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
 --- !u!4 &3738888595416926652 stripped
 Transform:
@@ -1053,7 +1062,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Prop_Wood_Platform_Wide_Post (5)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 281883688089941001, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
 --- !u!4 &3738888595409087020 stripped
 Transform:
@@ -1138,7 +1148,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Prop_Wood_Platform_Wide_Post (7)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 281883688089941001, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
 --- !u!4 &3738888594729633388 stripped
 Transform:
@@ -1223,7 +1234,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Prop_Wood_Platform_Wide_Post (3)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 281883688089941001, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
 --- !u!4 &3738888594706235558 stripped
 Transform:
@@ -1308,7 +1320,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Prop_Wood_Platform_Wide_Post (4)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 281883688089941001, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
 --- !u!4 &3738888594579038293 stripped
 Transform:
@@ -1393,7 +1406,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Prop_Wood_Platform_Wide_Post (8)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 281883688089941001, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
 --- !u!4 &3738888594869677353 stripped
 Transform:
@@ -1478,7 +1492,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Prop_Wood_Platform_Wide_Post (3)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 281883688089941001, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
 --- !u!4 &3738888596151424118 stripped
 Transform:
@@ -1563,7 +1578,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Prop_Wood_Platform_Wide_Post (5)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 281883688089941001, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
 --- !u!4 &3738888596583631044 stripped
 Transform:
@@ -1648,7 +1664,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Prop_Wood_Platform_Wide_Post (1)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 281883688089941001, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
 --- !u!4 &3738888596577475514 stripped
 Transform:
@@ -1733,7 +1750,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Prop_Wood_Platform_Wide_Post (8)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 281883688089941001, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
 --- !u!4 &3738888596415756468 stripped
 Transform:
@@ -1818,7 +1836,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Prop_Wood_Platform_Wide_Post (1)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 281883688089941001, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
 --- !u!4 &3738888595790090689 stripped
 Transform:
@@ -1903,7 +1922,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Prop_Wood_Platform_Wide_Post (6)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 281883688089941001, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
 --- !u!4 &3738888595770620790 stripped
 Transform:
@@ -1988,7 +2008,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Prop_Wood_Platform_Wide_Post (12)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 281883688089941001, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
 --- !u!4 &3738888595640615909 stripped
 Transform:
@@ -2073,7 +2094,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Prop_Wood_Platform_Wide_Post (2)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 281883688089941001, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
 --- !u!4 &3738888596058072434 stripped
 Transform:
@@ -2158,7 +2180,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Prop_Wood_Platform_Wide_Post (7)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 281883688089941001, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: cc22299c485689441a59116b7ae9a84f, type: 3}
 --- !u!4 &3738888596016311675 stripped
 Transform:
