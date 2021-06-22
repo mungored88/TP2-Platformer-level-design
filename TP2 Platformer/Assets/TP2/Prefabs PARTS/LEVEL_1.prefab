@@ -1192,7 +1192,7 @@ PrefabInstance:
     - target: {fileID: 1469355626344811392, guid: c958c456f1db83041a7d4e821d8231a9,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1469355626526630155, guid: c958c456f1db83041a7d4e821d8231a9,
         type: 3}
@@ -1207,7 +1207,7 @@ PrefabInstance:
     - target: {fileID: 1469355627145825815, guid: c958c456f1db83041a7d4e821d8231a9,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c958c456f1db83041a7d4e821d8231a9, type: 3}
@@ -1287,7 +1287,7 @@ PrefabInstance:
     - target: {fileID: 1469355626344811392, guid: c958c456f1db83041a7d4e821d8231a9,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1469355626526630155, guid: c958c456f1db83041a7d4e821d8231a9,
         type: 3}
@@ -1302,7 +1302,7 @@ PrefabInstance:
     - target: {fileID: 1469355627145825815, guid: c958c456f1db83041a7d4e821d8231a9,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c958c456f1db83041a7d4e821d8231a9, type: 3}
@@ -1453,16 +1453,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SpringMushroom (2)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5709205807058396873, guid: 4da3f69daeadbf54f9fc8ec7561361de,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5709205807058396873, guid: 4da3f69daeadbf54f9fc8ec7561361de,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4da3f69daeadbf54f9fc8ec7561361de, type: 3}
@@ -2322,7 +2312,7 @@ PrefabInstance:
     - target: {fileID: 548485017230829453, guid: 6a0b4f89b0309f941808797472333c79,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -76.992
+      value: -76.975
       objectReference: {fileID: 0}
     - target: {fileID: 548485017230829453, guid: 6a0b4f89b0309f941808797472333c79,
         type: 3}
@@ -2379,13 +2369,17 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 5806572247876259709, guid: 6a0b4f89b0309f941808797472333c79,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7899200002701342446, guid: 6a0b4f89b0309f941808797472333c79,
         type: 3}
       propertyPath: m_Name
       value: Terrain_Escarpment_Mine_Entrance
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 675636618632323176, guid: 6a0b4f89b0309f941808797472333c79, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6a0b4f89b0309f941808797472333c79, type: 3}
 --- !u!4 &476203774244817021 stripped
 Transform:
@@ -3523,7 +3517,7 @@ PrefabInstance:
     - target: {fileID: 1469355626344811392, guid: c958c456f1db83041a7d4e821d8231a9,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1469355626526630155, guid: c958c456f1db83041a7d4e821d8231a9,
         type: 3}
@@ -3538,7 +3532,7 @@ PrefabInstance:
     - target: {fileID: 1469355627145825815, guid: c958c456f1db83041a7d4e821d8231a9,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c958c456f1db83041a7d4e821d8231a9, type: 3}
