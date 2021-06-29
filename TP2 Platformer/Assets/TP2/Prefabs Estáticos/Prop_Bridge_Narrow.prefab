@@ -88,7 +88,7 @@ MeshCollider:
   m_GameObject: {fileID: 1647652710095950463}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 3
   m_Convex: 0
   m_CookingOptions: 14
@@ -274,7 +274,7 @@ MeshCollider:
   m_GameObject: {fileID: 2916421429403382938}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 3
   m_Convex: 0
   m_CookingOptions: 14
@@ -367,7 +367,7 @@ MeshCollider:
   m_GameObject: {fileID: 3221376897211208434}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 3
   m_Convex: 0
   m_CookingOptions: 14
@@ -460,7 +460,7 @@ MeshCollider:
   m_GameObject: {fileID: 6560022833164729376}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 3
   m_Convex: 0
   m_CookingOptions: 14
@@ -474,6 +474,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3229814694962835013}
+  - component: {fileID: 6395488240885170859}
   m_Layer: 0
   m_Name: Prop_Bridge_Narrow
   m_TagString: Untagged
@@ -500,3 +501,16 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &6395488240885170859
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8082205421744588206}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.0646915, y: 0.21463192, z: 1.9786232}
+  m_Center: {x: 0, y: -0.15545714, z: 0}
