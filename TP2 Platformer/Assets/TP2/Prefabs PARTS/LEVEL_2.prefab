@@ -15865,6 +15865,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8760977092854276298}
     m_Modifications:
+    - target: {fileID: 6374304608298936638, guid: 07659bb68f92feb408d8fb134fd052bc,
+        type: 3}
+      propertyPath: speed
+      value: 40
+      objectReference: {fileID: 0}
     - target: {fileID: 6374304608524645080, guid: 07659bb68f92feb408d8fb134fd052bc,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -15920,10 +15925,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6374304608524645081, guid: 07659bb68f92feb408d8fb134fd052bc,
+        type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
     - target: {fileID: 6374304608524645082, guid: 07659bb68f92feb408d8fb134fd052bc,
         type: 3}
       propertyPath: m_Name
       value: Ascensor
+      objectReference: {fileID: 0}
+    - target: {fileID: 6374304609173667990, guid: 07659bb68f92feb408d8fb134fd052bc,
+        type: 3}
+      propertyPath: speed
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 7971217398764197782, guid: 07659bb68f92feb408d8fb134fd052bc,
         type: 3}
