@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 454101932088528896}
   m_Layer: 0
-  m_Name: torchi off
+  m_Name: torch off
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -120,7 +120,7 @@ MeshCollider:
   m_GameObject: {fileID: 4871822614794258396}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 3
   m_Convex: 0
   m_CookingOptions: 14
@@ -132,6 +132,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5187573662140340909}
     m_Modifications:
+    - target: {fileID: 247340559292453093, guid: 08b2782a1c0b70c47a7527173eeefd5e,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 288431734012426268, guid: 08b2782a1c0b70c47a7527173eeefd5e,
         type: 3}
       propertyPath: m_IsActive
