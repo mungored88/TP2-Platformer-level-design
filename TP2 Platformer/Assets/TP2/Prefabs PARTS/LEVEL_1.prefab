@@ -5549,7 +5549,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: barandita
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 3872709490262218902, guid: 15dea81849959784abc8c65eed15c6e5, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 15dea81849959784abc8c65eed15c6e5, type: 3}
 --- !u!4 &4961754426789468622 stripped
 Transform:
