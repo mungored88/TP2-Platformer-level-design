@@ -68,7 +68,6 @@ GameObject:
   m_Component:
   - component: {fileID: 4540887717006551461}
   - component: {fileID: 6897457938358601026}
-  - component: {fileID: 8053256300719833090}
   m_Layer: 0
   m_Name: collider invisiblre (1)
   m_TagString: Untagged
@@ -103,19 +102,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1.8877296, y: 0.16852582, z: 2.081341}
   m_Center: {x: 0.26997948, y: 0.71090424, z: 1.0316535}
---- !u!65 &8053256300719833090
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3617869498986512801}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1.5874796, y: 1.4064075, z: 0.13088857}
-  m_Center: {x: 0.35347706, y: -0.7781028, z: -0.8617769}
 --- !u!1 &8581616573929186466
 GameObject:
   m_ObjectHideFlags: 0
