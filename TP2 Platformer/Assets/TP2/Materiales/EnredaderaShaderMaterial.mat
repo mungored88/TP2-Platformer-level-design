@@ -41,7 +41,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _Cutoff: 0.5
-    - _Float0: 0.7294118
+    - _Float0: 1
+    - _Float1: 0.55
+    - _Float2: 0.59
+    - _Float3: 0.5411765
+    - _Float4: 0.68235296
     - _TransAmbient: 0.2
     - _TransDirect: 1
     - _TransNormalDistortion: 0.1
@@ -52,4 +56,6 @@ Material:
     m_Colors:
     - _Color0: {r: 0.2733535, g: 0.33962262, b: 0.2226771, a: 0}
     - _Vector0: {r: 1.4, g: 15, b: 0, a: 0}
-    - _Vector1: {r: 1.5, g: 0.15, b: 0, a: 0}
+    - _Vector1: {r: 1.32, g: 0.24, b: 0, a: 0}
+    - _Vector2: {r: -0.39, g: 1.24, b: 0, a: 0}
+    - _Vector3: {r: 0.25, g: 0.05, b: 0, a: 0}
