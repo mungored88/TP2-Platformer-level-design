@@ -1,0 +1,7 @@
+CONTEXTO:
+	Mafia china quiere destruir templo sagrado con utilizacion de bombas c4. Hay dos lugares especificos donde lo 	quieren colocar. Monjes defensores del templo, instruidos en el uso de armas de fuego, van a tratar de defenderlo. Es invierno y hay nieve en el exterior
+
+
+DESCRIPCION:
+
+	El nivel es un templo que esta dividido en varios sectores, de los cuales dos de ellos contienen reliquias 	importantes. La mafia china quiere acceder para plantar sus bombas. Estos arrancan fuera del templo y tienen que 	pensar que estrategia acometer, ir hacia el sectores clave A o B. Mientras tanto los monjes deben defender estos 	puntos, pero tienen la ventaja de estar a una distancia mas corta. Los monjes pueden tomar la posicion antes de que 	la mafia llegue. 
