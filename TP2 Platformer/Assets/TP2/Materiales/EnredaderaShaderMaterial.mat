@@ -52,7 +52,7 @@ Material:
     - _TransScattering: 2
     - _TransShadow: 0.9
     - _Translucency: 1
-    - __dirty: 0
+    - __dirty: 1
     m_Colors:
     - _Color0: {r: 0.2733535, g: 0.33962262, b: 0.2226771, a: 0}
     - _Vector0: {r: 1.4, g: 15, b: 0, a: 0}
